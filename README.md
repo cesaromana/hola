@@ -1,34 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Me traicionaste....</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .mensaje {
-            background-color: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            max-width: 600px;
-            text-align: center;
-            line-height: 1.6;
-        }
-    </style>
-</head>
-<body>
-    <div class="mensaje">
-        <!-- Reemplaza el texto siguiente con tu mensaje -->
-        <p>Veruska...</p>
-    </div>
-</body>
-</html>
+# Me traicionaste...
+
+## Veruska...
